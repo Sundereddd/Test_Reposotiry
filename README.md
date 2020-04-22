@@ -1,4 +1,4 @@
-# Test_Reposotiry
+# Test_Repository
 репозиторий для проверки своего руководства по GitHub
 
 ## Состав бригады
